@@ -1,2 +1,2 @@
-# IoT-Enabled-Segregation-System-for-Low--and-High-Toxic-Particulate-Matter-and-Monitoring
+# IoT Enabled Segregation System for Low- and High-Toxic Particulate Matter and Monitoring
 An IoT-enabled twin fan-filter system separates highly toxic PM from low-toxic PM in real time, preventing cross-contamination. Only the small, high-toxicity fraction requires costly thermal or chemical treatment, while the rest goes to stabilization/solidification, greatly reducing disposal cost and improving urban PM management.
